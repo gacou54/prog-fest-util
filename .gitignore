@@ -5,4 +5,7 @@
 !pyproject.toml
 !poetry.lock
 
+!prog_fest_util/
+!prog_fest_util/**
+
 *.pyc
