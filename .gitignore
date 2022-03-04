@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!util.py
+!requirements.txt
+!setup.py
+
+*.pyc
