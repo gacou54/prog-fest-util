@@ -2,7 +2,7 @@
 
 !.gitignore
 !util.py
-!requirements.txt
-!setup.py
+!pyproject.toml
+!poetry.lock
 
 *.pyc
