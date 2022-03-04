@@ -5,7 +5,7 @@ description = ""
 authors = ["Gabriel Couture <gacou54@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 matplotlib = "^3.5.1"
 pydicom = "^2.2.2"
 
